@@ -1,0 +1,6 @@
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\bin\Debug\HelloApp.exe.config
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\bin\Debug\HelloApp.exe
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\bin\Debug\HelloApp.pdb
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\obj\Debug\HelloApp.exe
+C:\Users\gilbe\Source\Repos\infoweb-projeto-integrador\2020-Projeto-Exemplo\HelloSol\HelloApp\obj\Debug\HelloApp.pdb
